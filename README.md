@@ -1,7 +1,7 @@
 Hola, soy Itzel.
 
 Hola, soy Arlette.
-
+Holaa, Soy Juli
 
 Hola, soy Nora.
 
