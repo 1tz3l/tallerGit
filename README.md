@@ -21,5 +21,6 @@ Hola, soy Fiorella
 hola, soy dubraska
 hola julianny calderon reyes
 
-Hola, soy Linda
+Hola, soy Linda.
+
 Hola, soy Lady.
